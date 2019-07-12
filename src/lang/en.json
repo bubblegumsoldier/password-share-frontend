@@ -1,0 +1,19 @@
+{
+    "headline": "Password Share<br>Secure but<br>Convenient.",
+    "description": "Description",
+    "value": "Value",
+    "add_field": "Add Field",
+    "create_link": "Generate Link",
+    "your_email_address": "Your e-mail address",
+    "section": "Section",
+    "impressum": "Impressum",
+    "data_privacy": "Data Privacy",
+    "read_more": "Read More",
+    "loading": "Encrypting...",
+    "share_this_link": "You can share this link",
+    "share_this_link_description": "Please share the following link with your partner. The link can only be opened once. If the receiver would like to create another link for the same secret he will be able to do so.",
+    "link_to_share": "Link to Share",
+    "share_via_email": "Share via e-mail",
+    "create_new": "Create New",
+    "section_title": "Section Title"
+}

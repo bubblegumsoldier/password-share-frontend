@@ -1,0 +1,19 @@
+{
+    "headline": "Einfach & sicher<br>Passwörter<br>teilen",
+    "description": "Beschreibung",
+    "value": "Wert",
+    "add_field": "Feld hinzufügen",
+    "create_link": "Link erstellen",
+    "your_email_address": "Deine E-Mail Adresse",
+    "section": "Sektion",
+    "impressum": "Impressum",
+    "data_privacy": "Datenschutz",
+    "read_more": "Mehr erfahren",
+    "loading": "Wird verschlüsselt...",
+    "share_this_link": "Diesen Link kannst du teilen",
+    "share_this_link_description": "Diesen Link kannst du mit deinem Partner teilen. Der Link ist nur einmalig gültig. Der Öffnende wird jedoch die Möglichkeit haben, sich für die Passwörter einen neuen gültigen Link zu generieren.",
+    "link_to_share": "Link zum Teilen",
+    "share_via_email": "Per E-Mail teilen",
+    "create_new": "Link erstellen",
+    "section_title": "Sektionstitel"
+}
